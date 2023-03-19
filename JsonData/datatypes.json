@@ -1,0 +1,43 @@
+{
+	"testdata":[
+		{
+			"firstname":"Lucille",
+			"lastname":"Larson",
+			"address":"85250 Alene Estates Suite 292",
+			"zipcode":"22793",
+			"city":"Bowie",
+			"countryKey":"countryTxtBox",
+			"country":"US",
+			"email":"marisol72@hotmail.com",
+			"phone":"(329) 647-1781",
+			"position":"QA",
+			"Company":"Testing Excellance"
+		},
+		{
+			"firstname":"Josh",
+			"lastname":"Hutcherson",
+			"address":"749 Rempel Corner Suite 160",
+			"zipcode":"28573",
+			"city":"Pittsfield",
+			"countryKey":"countryTxtBox",
+			"country":"US",
+			"email":"oral91@gmail.com",
+			"phone":"(804) 999-8099",
+			"position":"Developer",
+			"Company":"Developer Excellance"
+		},
+		{
+			"firstname":"Karl",
+			"lastname":"Marx",
+			"address":"2877 Corkery Centers Apt 836",
+			"zipcode":"06539",
+			"city":"Bowie",
+			"countryKey":"countryTxtBox",
+			"country":"US",
+			"email":"carey41@yahoo.com",
+			"phone":"(717) 736-5647",
+			"position":"Research Professor",
+			"Company":"Preach the Truth"
+		}
+	]
+}

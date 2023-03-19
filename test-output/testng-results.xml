@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-19T11:06:45 IST" name="Default suite" finished-at="2023-03-19T11:07:23 IST" duration-ms="38011">
+    <groups>
+    </groups>
+    <test started-at="2023-03-19T11:06:45 IST" name="Default test" finished-at="2023-03-19T11:07:23 IST" duration-ms="38011">
+      <class name="com.advanced.JsonDataDrivenUserForm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:06:45 IST" name="setup" finished-at="2023-03-19T11:06:53 IST" duration-ms="7231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setUpTheFormTest(java.util.HashMap)[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:06:53 IST" name="setUpTheFormTest" data-provider="provideData" finished-at="2023-03-19T11:06:59 IST" duration-ms="6221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{zipcode=22793, country=US, firstname=Lucille, Company=Testing Excellance, address=85250 Alene Estates Suite 292, countryKey=countryTxtBox, city=Bowie, phone=(329) 647-1781, position=QA, email=marisol72@hotmail.com, lastname=Larson}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTheFormTest -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:06:59 IST" name="cleanup" finished-at="2023-03-19T11:07:00 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:00 IST" name="setup" finished-at="2023-03-19T11:07:04 IST" duration-ms="4808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setUpTheFormTest(java.util.HashMap)[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:04 IST" name="setUpTheFormTest" data-provider="provideData" finished-at="2023-03-19T11:07:11 IST" duration-ms="6172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{zipcode=28573, country=US, firstname=Josh, Company=Developer Excellance, address=749 Rempel Corner Suite 160, countryKey=countryTxtBox, city=Pittsfield, phone=(804) 999-8099, position=Developer, email=oral91@gmail.com, lastname=Hutcherson}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTheFormTest -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:11 IST" name="cleanup" finished-at="2023-03-19T11:07:12 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:12 IST" name="setup" finished-at="2023-03-19T11:07:17 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setUpTheFormTest(java.util.HashMap)[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:17 IST" name="setUpTheFormTest" data-provider="provideData" finished-at="2023-03-19T11:07:23 IST" duration-ms="6037" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{zipcode=06539, country=US, firstname=Karl, Company=Preach the Truth, address=2877 Corkery Centers Apt 836, countryKey=countryTxtBox, city=Bowie, phone=(717) 736-5647, position=Research Professor, email=carey41@yahoo.com, lastname=Marx}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTheFormTest -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.advanced.JsonDataDrivenUserForm@47d9a273]" started-at="2023-03-19T11:07:23 IST" name="cleanup" finished-at="2023-03-19T11:07:23 IST" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.advanced.JsonDataDrivenUserForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
